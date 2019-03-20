@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:title=""
+            android:icon="@drawable/back"/>
+        <item
+            android:title=""
+            android:icon="@drawable/right"/>
+        <item
+            android:title=""
+            android:icon="@drawable/bottom_item"/>
+        <item
+            android:title=""
+            android:icon="@drawable/bottom_home"/>
+        <item
+            android:title=""
+            android:icon="@drawable/new_page"/>
+    </group>
+
+</menu>
